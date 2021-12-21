@@ -1,1 +1,3 @@
-alert("hello guys");
+tinymce.init({
+  selector: "textarea",
+});
